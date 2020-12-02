@@ -1,7 +1,3 @@
-#Olivia Dickerson
-#ID: 111345942
-#NetId: odickerson
-
 import random
 import sys
 """
